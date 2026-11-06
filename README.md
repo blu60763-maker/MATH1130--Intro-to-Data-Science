@@ -8,7 +8,7 @@ This repository contains coursework, data analysis, and projects completed for *
 ## Assignments & Projects
 
 * **`A1-Overwatch League Insights`**  
-  Exploratory data analysis and performance metric evaluation on competitive esports gameplay data.
+  Data cleaning, EDA, performance metric evaluation and visualization of match and tournament dynamics across teams and map formats in the Overwatch League.
 
 * **`A2-Air Pollution Health Effects`**  
   Investigation into the plausible impacts of global air contamination on public health using multi-source environmental and demographic datasets from the WHO, IHME, and the World Bank.
