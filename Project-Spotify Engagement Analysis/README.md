@@ -36,7 +36,7 @@ The analysis utilizes a comprehensive Spotify dataset (`dataset.csv`) comprising
 ### Research Questions
 This project investigates the following primary questions:
 
-1. **Album Engagement & Spillover:** Does a high-popularity track positively correlate with the overall average popularity of an album, and does it drive broader listener exploration of adjacent songs?
-2. **Genre Breadth vs. Niche Appeal:** How does the spread of track popularity differ between genre-diverse albums (e.g., *Greatest Hits*) and single-genre niche albums (e.g., *The Complete Hank Williams*)?
-3. **Solo vs. Collaborative Audio Profiles:** Which musical attributes (such as danceability, valence, or energy) show statistically significant changes when artists collaborate compared to solo releases?
-4. **Top Genre Consistency:** Do collaborative shifts in musical features remain consistent across Spotify's top 10 most popular genres?
+1. **Album Engagement & Spillover (`subtopic1.ipynb`):** Does a high-popularity track positively correlate with the overall average popularity of an album, and does it drive broader listener exploration of adjacent songs?
+2. **Genre Breadth vs. Niche Appeal (`subtopic1.ipynb`):** How does the spread of track popularity differ between genre-diverse albums (e.g., *Greatest Hits*) and single-genre niche albums (e.g., *The Complete Hank Williams*)?
+3. **Solo vs. Collaborative Audio Profiles (`subtopic2.ipynb`):** Which musical attributes (such as danceability, valence, or energy) show statistically significant changes when artists collaborate compared to solo releases?
+4. **Top Genre Consistency (`subtopic2.ipynb`):** Do collaborative shifts in musical features remain consistent across Spotify's top 10 most popular genres?
