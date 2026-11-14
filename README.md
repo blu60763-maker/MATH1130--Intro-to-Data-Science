@@ -16,6 +16,9 @@ This repository contains coursework, data analysis, and projects completed for *
 * **`A3-Amazon Reviews NLP`**  
   Natural language processing (NLP) and contextual feature engineering on large-scale Amazon review datasets to identify key drivers of customer sentiment.
 
+* **`Final Project - Spotify Engagement & Musical Attributes`**
+<br>Exploratory data analysis and hypothesis testing on Spotify track-level data to evaluate album engagement spillover effects ("halo effect") and audio attribute shifts between solo and       collaborative tracks.
+
 ---
 
 ## Repository Notes
