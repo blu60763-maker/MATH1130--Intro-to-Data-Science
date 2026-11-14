@@ -1,4 +1,5 @@
-# Introduction
+# Overwatch League Insights
+## Introduction
 
 **Business Context.** You work for Overwatch League, the premier esports league for the game Overwatch. They have collected data about past pro tournaments and would like you to answer some questions about past tournaments. Build visualizations and answer the questions below.
 
